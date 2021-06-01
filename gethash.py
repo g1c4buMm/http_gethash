@@ -1,4 +1,3 @@
-#from typing import Text
 # Importando bibliotecas necessárias para configuração do script
 import requests
 import json
